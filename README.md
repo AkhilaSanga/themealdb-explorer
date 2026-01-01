@@ -3,7 +3,7 @@
 TheMealDB Explorer is a full-stack web application that allows users to explore recipes using **TheMealDB public API**.  
 The project consists of a **Node.js backend (REST API with full caching)** and a **React + Vite frontend**.
 
----
+
 
 ## 📌 Features
 
@@ -19,7 +19,7 @@ The project consists of a **Node.js backend (REST API with full caching)** and a
   - YouTube cooking video
 - Responsive design (mobile & desktop)
 
----
+
 
 ### 🔹 Backend (Node.js + Express)
 - RESTful API layer over TheMealDB
@@ -30,7 +30,6 @@ The project consists of a **Node.js backend (REST API with full caching)** and a
 - Improves performance and reduces external API calls
 - Runs completely **locally**
 
----
 
 ## 🧠 Cache Implementation
 
@@ -47,7 +46,6 @@ The project consists of a **Node.js backend (REST API with full caching)** and a
 - Expiry Time: **5 minutes**
 - Max Cache Size: **50 entries**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -62,7 +60,7 @@ The project consists of a **Node.js backend (REST API with full caching)** and a
 - Axios
 - CORS
 
----
+
 
 ## 📂 Project Structure
 Project/
