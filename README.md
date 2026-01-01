@@ -5,7 +5,7 @@ The project consists of a **Node.js backend (REST API with full caching)** and a
 
 
 
-## 📌 Features
+## Features
 
 ### 🔹 Frontend (React + Vite + Tailwind CSS)
 - Display **top 10 meals on initial page load**
@@ -31,7 +31,7 @@ The project consists of a **Node.js backend (REST API with full caching)** and a
 - Runs completely **locally**
 
 
-## 🧠 Cache Implementation
+## Cache Implementation
 
 - Cache is implemented using a JavaScript object (in-memory)
 - Each request is stored using a **unique cache key**
@@ -47,7 +47,7 @@ The project consists of a **Node.js backend (REST API with full caching)** and a
 - Max Cache Size: **50 entries**
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React (Vite)
@@ -62,7 +62,7 @@ The project consists of a **Node.js backend (REST API with full caching)** and a
 
 
 
-## 📂 Project Structure
+## Project Structure
 Project/
 │
 ├── backend/
