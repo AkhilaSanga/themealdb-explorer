@@ -61,26 +61,3 @@ The project consists of a **Node.js backend (REST API with full caching)** and a
 - CORS
 
 
-
-## Project Structure
-Project/
-│
-├── backend/
-│ ├── server.js # Express server with REST APIs & caching
-│ ├── package.json # Backend dependencies
-│ └── node_modules/
-│
-├── frontend/
-│ ├── index.html # Main HTML file
-│ ├── package.json # Frontend dependencies
-│ ├── vite.config.js # Vite configuration
-│ ├── tailwind.config.js # Tailwind CSS config
-│ ├── postcss.config.js # PostCSS configuration
-│ ├── src/
-│ │ ├── App.jsx # Main React component
-│ │ ├── main.jsx # React entry point
-│ │ └── index.css # Tailwind CSS imports
-│ └── node_modules/
-│
-└── README.md # Project documentation
-
